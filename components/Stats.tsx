@@ -51,7 +51,7 @@ import {
   
   export default function Stats() {
     return (
-      <Box maxW="7xl" mx={'auto'} pt={5} px={{ base: 2, sm: 12, md: 17 }}>
+      <Box maxW="7xl" marginTop={'20'} marginBottom={'20'} mx={'auto'} pt={5} px={{ base: 2, sm: 12, md: 17 }}>
         <chakra.h1
           textAlign={'center'}
           fontSize={'4xl'}
